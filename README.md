@@ -1,3 +1,15 @@
+# 🚀 **Came here from my post?**
+
+You might want to read these in order:
+
+1. 📘 [My DevDay Buildathon Experience](./linkedin_post_1.md)
+2. ⚙️ [My Approach](./linkedin_post_2.md)
+
+
+
+
+
+
 # Gmail AI Segregator (Inbox AI)
 
 A premium email intelligence tool helping you analyze, tag, and query your inbox using AI.
